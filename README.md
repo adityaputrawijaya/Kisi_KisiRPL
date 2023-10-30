@@ -1,14 +1,14 @@
 # Kisi_KisiRPL
-# Rekaysa Perangkat Lunak 
+# Rekaysa Perangkat Lunak 
   
- # 1.Berikan penjelasan tentang rekayasa perangkat lunak, sejarahnya, metodenya, dan perkembangannya! 
+ # 1.Berikan penjelasan tentang rekayasa perangkat lunak, sejarahnya, metodenya, dan perkembangannya! 
   
- Rekayasa perangkat lunak (software engineering) adalah disiplin ilmu yang berkaitan dengan proses pembuatan, pengembangan, pemeliharaan, dan evolusi perangkat lunak secara sistematis dan terkendali. Tujuan utamanya adalah untuk menghasilkan perangkat lunak yang berkualitas tinggi, handal, efisien, dan dapat dipertahankan. 
+ - Rekayasa perangkat lunak (software engineering) adalah disiplin ilmu yang berkaitan dengan proses pembuatan, pengembangan, pemeliharaan, dan evolusi perangkat lunak secara sistematis dan terkendali. Tujuan utamanya adalah untuk menghasilkan perangkat lunak yang berkualitas tinggi, handal, efisien, dan dapat dipertahankan. 
   
- Sejarah Rekayasa Perangkat Lunak: 
+ - Sejarah Rekayasa Perangkat Lunak: 
  Rekayasa perangkat lunak sebagai disiplin ilmu mulai diperkenalkan pada tahun 1960-an ketika industri perangkat lunak mulai berkembang pesat. Pada awalnya, proses pengembangan perangkat lunak dilakukan secara ad hoc dan tidak terstruktur. Namun, dengan semakin kompleksnya perangkat lunak yang dibuat, diperlukan pendekatan yang lebih sistematis dan terkoordinasi. 
   
- Metode Rekayasa Perangkat Lunak: 
+ - Metode Rekayasa Perangkat Lunak: 
  Ada beberapa metode yang digunakan dalam rekayasa perangkat lunak, di antaranya: 
   
  1. Model Air Terjun (Waterfall Model): Model ini menggambarkan proses pengembangan perangkat lunak sebagai serangkaian tahapan linear, mulai dari analisis, perancangan, implementasi, pengujian, hingga pemeliharaan. Setiap tahap dilakukan secara berurutan dan seringkali tidak ada kemungkinan kembali ke tahap sebelumnya. 
@@ -17,7 +17,7 @@
   
  3. Metode Pengembangan Berbasis Komponen: Pendekatan ini melibatkan penggunaan komponen perangkat lunak yang dapat digunakan kembali (reusable) untuk mempercepat proses pengembangan. Komponen-komponen ini dibangun secara terpisah dan kemudian diintegrasikan ke dalam perangkat lunak yang sedang dikembangkan. 
   
- Perkembangan Rekayasa Perangkat Lunak: 
+ - Perkembangan Rekayasa Perangkat Lunak: 
  Rekayasa perangkat lunak terus mengalami perkembangan seiring waktu. Beberapa tren dan perkembangan penting dalam industri rekayasa perangkat lunak meliputi: 
   
  1. Metode Pengembangan Agil: Metode ini menekankan kolaborasi tim, fleksibilitas, dan responsif terhadap perubahan yang cepat. Beberapa metode pengembangan agil yang populer termasuk Scrum, Extreme Programming (XP), dan Kanban. 
@@ -30,13 +30,13 @@
   
  Perkembangan teknologi dan kebutuhan bisnis yang terus berkembang terus mendorong inovasi dan perkembangan dalam rekayasa perangkat lunak. 
   
- # 2.Jelaskan mengenai analisa desain pendekatan terstruktur 
+ # 2.Jelaskan mengenai analisa desain pendekatan terstruktur 
   
  Analisis desain pendekatan terstruktur (Structured Design) adalah metodologi yang digunakan dalam rekayasa perangkat lunak untuk merancang sistem dengan pendekatan yang terstruktur dan sistematis. Pendekatan ini berfokus pada pemisahan masalah menjadi bagian-bagian yang lebih kecil, yang kemudian diorganisasikan secara hierarkis dan saling terkait. 
   
  Tujuan utama dari analisis desain pendekatan terstruktur adalah untuk menghasilkan desain yang mudah dimengerti, mudah dipelihara, dan dapat diimplementasikan dengan efisien. Pendekatan ini melibatkan beberapa konsep dan teknik yang terintegrasi dalam proses analisis dan desain sistem. 
   
- Berikut adalah langkah-langkah umum dalam analisis desain pendekatan terstruktur: 
+ - Berikut adalah langkah-langkah umum dalam analisis desain pendekatan terstruktur: 
   
  1. Penentuan Persyaratan: Langkah pertama adalah memahami persyaratan sistem dengan mendefinisikan kebutuhan pengguna, fungsi yang diinginkan, dan batasan sistem. 
   
@@ -58,13 +58,13 @@
   
  Namun, analisis desain pendekatan terstruktur memiliki kelemahan dalam menghadapi sistem yang sangat kompleks dan sulit untuk mengikuti perubahan yang cepat. Dalam beberapa kasus, pendekatan yang lebih fleksibel seperti metode pengembangan berbasis komponen atau metode pengembangan berbasis objek mungkin lebih sesuai. 
   
- # 3.Jelaskan mengenai analisa desain berorientasi objek 
+ # 3.Jelaskan mengenai analisa desain berorientasi objek 
   
  Analisis desain berorientasi objek (Object-Oriented Design) adalah pendekatan dalam rekayasa perangkat lunak yang berfokus pada pemodelan sistem menggunakan konsep objek. Pendekatan ini memungkinkan pemisahan masalah menjadi entitas yang lebih kecil yang disebut objek, yang memiliki atribut dan perilaku tertentu. 
   
  Pada analisis desain berorientasi objek, sistem dilihat sebagai kumpulan objek yang saling berinteraksi untuk mencapai tujuan. Objek dapat merepresentasikan entitas nyata atau konsep abstrak dalam sistem yang sedang dianalisis. Masing-masing objek memiliki atribut (data) dan metode (fungsi) yang berhubungan dengan objek tersebut. 
   
- Berikut adalah konsep utama dalam analisis desain berorientasi objek: 
+ - Berikut adalah konsep utama dalam analisis desain berorientasi objek: 
   
  1. Enkapsulasi: Enkapsulasi adalah konsep yang memungkinkan objek untuk menyembunyikan detail internalnya dan hanya mengekspos antarmuka publik. Objek berkomunikasi satu sama lain melalui antarmuka publik mereka. Hal ini membantu dalam memisahkan perhatian dan memungkinkan perubahan internal tanpa mempengaruhi objek lain. 
   
@@ -80,11 +80,11 @@
   
  Analisis desain berorientasi objek memungkinkan pengembangan sistem yang modular, fleksibel, dan mudah dimengerti. Pendekatan ini memfasilitasi pemodelan dunia nyata dalam perangkat lunak, memungkinkan penggunaan kembali kode yang efisien, dan meningkatkan keterbacaan dan pemeliharaan sistem. 
   
- # 4.Berikan penjelasan tengtang UML 
+ # 4.Berikan penjelasan tengtang UML 
   
- UML (Unified Modeling Language) adalah bahasa standar yang digunakan untuk memodelkan, merancang, dan mendokumentasikan sistem perangkat lunak. UML menyediakan seperangkat notasi grafis yang digunakan untuk menggambarkan berbagai aspek sistem, termasuk struktur, perilaku, interaksi, dan komunikasi antar objek. 
+ - UML (Unified Modeling Language) adalah bahasa standar yang digunakan untuk memodelkan, merancang, dan mendokumentasikan sistem perangkat lunak. UML menyediakan seperangkat notasi grafis yang digunakan untuk menggambarkan berbagai aspek sistem, termasuk struktur, perilaku, interaksi, dan komunikasi antar objek. 
   
- Berikut adalah beberapa jenis diagram yang umum digunakan dalam UML: 
+ - Berikut adalah beberapa jenis diagram yang umum digunakan dalam UML: 
   
  1. Diagram Kelas (Class Diagram): Diagram kelas digunakan untuk menggambarkan struktur statis dari sistem. Ini mengidentifikasi kelas-kelas yang ada dalam sistem, hubungan antara kelas-kelas tersebut, atribut dan metode yang dimiliki oleh setiap kelas, serta visibilitas dan tipe data dari atribut dan metode. 
   
@@ -100,13 +100,13 @@
   
  UML memberikan cara yang jelas dan konsisten untuk menyajikan informasi tentang perangkat lunak. Notasi grafis yang didefinisikan dalam UML memungkinkan para pengembang perangkat lunak untuk berkomunikasi dan berkolaborasi secara efektif dalam merancang, memodelkan, dan membangun sistem perangkat lunak yang kompleks. 
   
- # 5.Berikan penjelasan tentang program desain 
+ # 5.Berikan penjelasan tentang program desain 
   
  Program desain (design program) adalah langkah dalam proses pengembangan perangkat lunak di mana desain sistem atau komponen perangkat lunak dihasilkan. Ini melibatkan pemikiran dan analisis yang mendalam untuk merancang struktur, fungsi, dan interaksi dari perangkat lunak yang akan dikembangkan. 
   
  Program desain berfokus pada bagaimana komponen perangkat lunak akan diimplementasikan, bagaimana komunikasi dan interaksi antara komponen akan terjadi, dan bagaimana struktur keseluruhan sistem akan dibangun. Tujuan dari program desain adalah menghasilkan desain yang efisien, mudah dimengerti, dan dapat diimplementasikan dengan baik. 
   
- Beberapa hal yang perlu dipertimbangkan dalam program desain meliputi: 
+ - Beberapa hal yang perlu dipertimbangkan dalam program desain meliputi: 
   
  1. Arsitektur Sistem: Ini melibatkan pembuatan rencana tingkat tinggi tentang bagaimana komponen-komponen perangkat lunak akan berinteraksi dan berkomunikasi satu sama lain. Arsitektur sistem menentukan struktur keseluruhan sistem dan menyediakan panduan bagi pengembang dalam mengimplementasikan komponen perangkat lunak. 
   
